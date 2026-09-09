@@ -1,240 +1,253 @@
-<h1 align="center">Hi, I'm Srinivas Udiga 👋</h1>
-<h3 align="center">Embedded Systems | FPGA/VLSI | IoT | Hardware Design Engineer</h3>
+<div align="center">
+👋 Hi, I'm Srinivas Udiga
+Embedded & IoT Engineer | FPGA/VLSI | Hardware & Firmware
+Building end-to-end systems across hardware, firmware, FPGA, DSP, IoT, and cloud.
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+  
+![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)
+  
+![Facebook](https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=white)
+  
+![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)
+  
+![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white)
+</div>
+---
+🧭 SYSTEM.INFO
+```text
+Subject       Srinivas Udiga
+Role          Embedded & IoT Engineer
+Origin        Hyderabad, India
+Education     B.Tech ECE • IIIT Ongole
+Status        Embedded • IoT • VLSI
+ToolChain     VS Code • Arduino IDE • Vivado • MATLAB • KiCad
 
+Core.Lang     C • C++ • Embedded C
+Core.HDL      Verilog • SystemVerilog
+Core.MCU      ESP32 • STM32 • Arduino • Raspberry Pi
+Core.Protocol I2C • SPI • UART • I2S • MQTT • HTTP
+Core.IoT      Wi-Fi • BLE • IoT Cloud
+Core.PCB      KiCad • EasyEDA • Altium Designer
+Core.RTOS     FreeRTOS
+Core.DSP      MATLAB • FFT • Spectrogram
+Core.VLSI     FPGA • RTL • Digital Design
+Core.Cloud    REST API • Cloud Telemetry • Dashboards
+Core.DB       Neon • Supabase
+```
+---
+⚡ ABOUT ME
+I'm an Embedded & IoT Engineer working across the complete embedded development stack — from circuit and PCB design to firmware, real-time communication, FPGA/VLSI development, DSP, and cloud-connected systems.
+My focus is on turning hardware concepts into reliable, testable and production-oriented systems.
+```text
+Hardware       → Circuit Design • PCB • Sensors • Bring-up
+Firmware       → Embedded C • C/C++ • RTOS • Device Drivers
+Connectivity   → I2C • SPI • UART • I2S • Wi-Fi • BLE • MQTT • HTTP
+FPGA / VLSI    → Verilog • SystemVerilog • RTL • Digital Design
+DSP / ML       → MATLAB • FFT • Spectrogram • Signal Analysis
+IoT / Cloud    → REST APIs • Telemetry • Dashboards • Cloud Databases
+Debugging      → Serial • Multimeter • Logic Analysis • Validation
+```
+---
+🛠️ TECHNICAL STACK
+Languages
+![C](https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-181717?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-181717?style=for-the-badge&logo=c&logoColor=white)
+HDL / FPGA / VLSI
+![Verilog](https://img.shields.io/badge/Verilog-181717?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-181717?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-181717?style=for-the-badge)
+![RTL](https://img.shields.io/badge/RTL_Design-181717?style=for-the-badge)
+Microcontrollers & Boards
+![ESP32](https://img.shields.io/badge/ESP32-181717?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-181717?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-181717?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-181717?style=for-the-badge&logo=raspberrypi&logoColor=white)
+Protocols & Connectivity
+![I2C](https://img.shields.io/badge/I2C-181717?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-181717?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-181717?style=for-the-badge)
+![I2S](https://img.shields.io/badge/I2S-181717?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-181717?style=for-the-badge&logo=mqtt&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-181717?style=for-the-badge)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-181717?style=for-the-badge&logo=wifi&logoColor=white)
+![BLE](https://img.shields.io/badge/BLE-181717?style=for-the-badge&logo=bluetooth&logoColor=white)
+PCB, Firmware & Engineering Tools
+![KiCad](https://img.shields.io/badge/KiCad-181717?style=for-the-badge&logo=kicad&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-181717?style=for-the-badge)
+![Altium](https://img.shields.io/badge/Altium_Designer-181717?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-181717?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-181717?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-181717?style=for-the-badge&logo=mathworks&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-181717?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Cloud & Databases
+![REST API](https://img.shields.io/badge/REST_API-181717?style=for-the-badge)
+![Neon](https://img.shields.io/badge/Neon-181717?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-181717?style=for-the-badge&logo=supabase&logoColor=white)
+---
+🚀 FEATURED PROJECTS
+📡 FPGA-Based Radar System
+Distance Measurement & Object Localization
+Designed and implemented a real-time FPGA radar system.
+Utilized ultrasonic/FMCW sensing techniques for object detection and distance measurement.
+Implemented the digital pipeline covering signal generation, echo sampling, time-of-flight calculation and distance estimation.
+Focus: `FPGA` `Verilog/SystemVerilog` `Digital Design` `Signal Processing`
+---
+🦺 SURAAKSHA — Industrial Worker Safety Wearable
+Developed a wearable for continuous worker vital-sign monitoring.
+Streamed real-time information to a supervisor dashboard with health-anomaly alerts.
+Designed the concept for scalable multi-site monitoring, historical trend analytics and regional-language alerting.
+Focus: `Embedded Systems` `IoT` `Sensors` `Cloud` `Real-Time Monitoring`
+---
+🎙️ Voice-Based Fault Reporting Device
+Built a compact device where a user presses a button, speaks a fault complaint, and the device records and uploads the complaint.
+Implemented location tagging and LED status feedback.
+Developed modular, non-blocking firmware with watchdog, retry and OTA-ready architecture.
+Integrated a cloud backend for speech-to-text transcription and complaint tracking.
+Focus: `Embedded C` `IoT` `Wi-Fi` `REST API` `Cloud`
+---
+🌱 SARAM — Soil Analysis Device for Farmers
+Designed an on-field device for measuring and reporting key soil parameters.
+Stored readings in a cloud database for historical tracking and advisory use.
+Built around the idea of fast, data-driven agricultural decision making.
+Focus: `Embedded Systems` `Sensors` `IoT` `Cloud Database`
+---
+🫁 Respiratory Disease Analysis — MATLAB + DSP + ML
+Built a MATLAB-based system for analyzing lung sound signals.
+Applied filtering and time/frequency feature extraction.
+Used FFT and spectrogram analysis to detect wheezes and crackles.
+Applied machine learning for normal vs. abnormal sound classification.
+Focus: `MATLAB` `DSP` `FFT` `Spectrogram` `Machine Learning`
+---
+🌫️ Air Quality Index Monitoring Device
+Developed an AQI monitoring device using gas and particulate-matter sensors.
+Displayed real-time AQI readings on an LCD.
+Streamed telemetry over Wi-Fi to the cloud for remote monitoring.
+Focus: `ESP32/MCU` `Sensors` `Wi-Fi` `IoT Cloud`
+---
+☀️ Solar Energy Monitoring System
+Built an IoT system to measure real-time voltage, current and power.
+Monitored both solar-panel generation and load consumption.
+Interfaced voltage/current sensors with a microcontroller and streamed live telemetry to the cloud.
+Focus: `Embedded Systems` `Sensors` `IoT` `Cloud Telemetry`
+---
+💼 EXPERIENCE
+IoT & Embedded Systems Engineer — Sentiantal Pvt Ltd
+Hyderabad · Aug 2025 – Present
+Designed custom PCBs and circuits across schematic capture, layout, prototype bring-up and testing.
+Developed firmware and application-side software for data acquisition and cloud telemetry.
+Worked with Wi-Fi, MQTT and HTTP communication.
+Built end-to-end IoT pipelines from sensor acquisition and on-device processing to cloud dashboards.
+Debugged and validated hardware and firmware using serial monitoring, multimeters and logic analysis.
+Optimized firmware and power consumption for low-power, always-on deployments.
+Summer Intern — Sense Semiconductors & IT Solutions Pvt Ltd
+May – Jun 2025
+Supported semiconductor and embedded-systems development.
+Performed hardware testing, debugging and prototype bring-up.
+Assisted with prototype validation and laboratory measurements.
+Contributed to project planning, execution and technical documentation.
+---
+🎓 EDUCATION
+B.Tech — Electronics & Communication Engineering  
+IIIT Ongole (RGUKT AP) · 2022–2026 · GPA: 8.2
+Pre University Course — MPC  
+IIIT Ongole (RGUKT AP) · 2020–2022 · GPA: 8.9
+Secondary Education — SSC  
+Zilla Parishad High School, Madepalli, Eluru, AP · 2018–2019 · GPA: 10.0
+---
+📊 GITHUB ANALYTICS
+> **Self-hosted stats instance:** replace `YOUR-STATS-INSTANCE` below after deploying `github-readme-stats` on Vercel.
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;FPGA+%26+RTL+Designer;IoT+%26+Firmware+Developer;Hardware+Design+Engineer;DSP+%26+Signal+Processing+Engineer;Electronics+%26+Communication+Engineer" alt="Typing SVG" />
+  <img src="https://YOUR-STATS-INSTANCE.vercel.app/api?username=Srinivas0694&show_icons=true&hide_rank=true&theme=transparent&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://YOUR-STATS-INSTANCE.vercel.app/api/top-langs/?username=Srinivas0694&layout=compact&theme=transparent&hide_border=true" width="49%" />
 </p>
-
 <p align="center">
-  📍 Hyderabad, India &nbsp;|&nbsp;
-  📧 <a href="mailto:srinivasudiga73@gmail.com">srinivasudiga73@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/srinivas-udiga7781/">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://srinivasudiga.netlify.app/">Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://drive.google.com/file/d/1BpZsnydAo5lZvgL24SsRAhGNyxCXu7XL/view?usp=sharing">Resume</a>
+  <img src="https://streak-stats.demolab.com?user=Srinivas0694&theme=transparent&hide_border=true" width="100%" />
 </p>
-
 ---
-
-### 👨‍💻 About Me
-
-I am an Embedded Systems and Hardware Design Engineer specializing in embedded firmware, FPGA/VLSI design, and IoT systems. My work spans custom PCB design, real-time firmware development, digital design in Verilog/SystemVerilog, and cloud-connected sensing platforms. I focus on building reliable, production-oriented hardware and embedded solutions — from signal acquisition and DSP to firmware optimization and low-power deployment.
-
+🐍 CONTRIBUTION SNAKE
+Use the generated light/dark SVGs after the GitHub Action completes successfully.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake-light.svg">
+  <img alt="GitHub contribution snake animation" src="./output/github-contribution-grid-snake-light.svg">
+</picture>
 ---
+🖥️ ANIMATED PROFILE BANNER
+The premium animated banner is designed around:
+```text
+VISUAL.MAP                          SYSTEM.INFO
 
-## 🔧 What I Build
+[ DITHERED PORTRAIT ]              Subject       Srinivas Udiga
+                                   Role          Embedded & IoT Engineer
+                                   Origin        Hyderabad, India
+                                   Education     B.Tech ECE • IIIT Ongole
+                                   Status        Embedded • IoT • VLSI
+                                   ToolChain     VS Code • Arduino IDE • Vivado • MATLAB • KiCad
 
-- **Embedded Firmware** — real-time, low-power firmware for microcontroller-based systems
-- **PCB & Hardware Systems** — schematic capture, PCB layout, prototype bring-up, and hardware debugging
-- **FPGA / RTL Design** — digital design and signal pipelines using Verilog/SystemVerilog
-- **IoT Telemetry** — sensor interfacing, Wi-Fi/MQTT/HTTP connectivity, and cloud-connected monitoring
-- **DSP & Signal Processing** — biomedical and radar signal analysis, filtering, and feature extraction
-
+                                   Core.Lang     C • C++ • Embedded C
+                                   Core.HDL      Verilog • SystemVerilog
+                                   Core.MCU      ESP32 • STM32 • Arduino • Raspberry Pi
+                                   Core.Protocol I2C • SPI • UART • I2S • MQTT • HTTP
+                                   Core.IoT      Wi-Fi • BLE • IoT Cloud
+                                   Core.PCB      KiCad • EasyEDA • Altium Designer
+                                   Core.RTOS     FreeRTOS
+                                   Core.DSP      MATLAB • FFT • Spectrogram
+                                   Core.VLSI     FPGA • RTL • Digital Design
+                                   Core.Cloud    REST API • Cloud Telemetry • Dashboards
+                                   Core.DB       Neon • Supabase
+```
+Place the generated banner assets in the profile repository:
+```text
+assets/
+├── banner-dark.svg
+└── banner-light.svg
+```
+Then place this at the top of the README:
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img alt="Srinivas Udiga — Embedded & IoT Engineer" src="./assets/banner-light.svg" width="100%">
+</picture>
+```
+Animated identity
+The three morphing technology marks are:
+Arduino IDE → VS Code → IoT
+The banner is intended to communicate the progression:
+```text
+Hardware / Firmware
+        ↓
+Development Environment
+        ↓
+Connected IoT System
+```
 ---
-
-## 🛠️ Tech Stack
-
-**Languages**
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**HDL**
-![Verilog](https://img.shields.io/badge/-Verilog-003366?style=flat-square)
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-003366?style=flat-square)
-
-**Microcontrollers / Boards**
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-
-**Protocols & Connectivity**
-![I2C](https://img.shields.io/badge/-I2C-333333?style=flat-square)
-![SPI](https://img.shields.io/badge/-SPI-333333?style=flat-square)
-![UART](https://img.shields.io/badge/-UART-333333?style=flat-square)
-![I2S](https://img.shields.io/badge/-I2S-333333?style=flat-square)
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![HTTP](https://img.shields.io/badge/-HTTP-005571?style=flat-square)
-![WiFi](https://img.shields.io/badge/-WiFi-0078D4?style=flat-square)
-![BLE](https://img.shields.io/badge/-BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
-
-**Hardware / PCB**
-![PCB Design](https://img.shields.io/badge/-PCB%20Design-1A1A1A?style=flat-square)
-![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![EasyEDA](https://img.shields.io/badge/-EasyEDA-1A1A1A?style=flat-square)
-![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-E62929?style=flat-square)
-
-**FPGA / VLSI**
-![Vivado](https://img.shields.io/badge/-Vivado-CC0000?style=flat-square)
-![RTL Design](https://img.shields.io/badge/-RTL%20Design-333333?style=flat-square)
-![EDA Playground](https://img.shields.io/badge/-EDA%20Playground-333333?style=flat-square)
-
-**DSP / Engineering Tools**
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**RTOS**
-![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-1A1A1A?style=flat-square)
-
----
-
-## 💼 Experience
-
-### IoT & Embedded Systems Engineer — Sentiantal Pvt Ltd
-*Hyderabad, India*
-
-- Designed custom PCBs including schematic capture, layout, and prototype bring-up
-- Developed embedded firmware and application-side software for connected devices
-- Built sensor data acquisition pipelines with cloud telemetry over Wi-Fi, MQTT, and HTTP
-- Implemented real-time monitoring and IoT data pipelines for deployed hardware
-- Performed hardware and firmware debugging using serial monitoring, multimeter testing, and logic analysis
-- Optimized firmware and power consumption for low-power, always-on embedded deployments
-
-### Summer Intern — Sense Semiconductors & IT Solutions Pvt Ltd
-
-- Gained hands-on exposure to semiconductor and embedded systems development
-- Assisted in hardware testing, debugging, and prototype bring-up
-- Supported measurement tasks and cross-functional engineering collaboration
-- Contributed to technical documentation
-
----
-
-## 🚀 Featured Projects
-
-### 📡 FPGA-Based Radar System — Distance Measurement & Object Localization
-`FPGA` `RTL` `DSP` `Radar`
-
-Real-time FPGA-based radar system for distance measurement and object localization. Implements signal generation, echo sampling, time-of-flight calculation, and distance estimation through a digital signal pipeline on FPGA hardware.
-*Private repository.*
-
----
-
-### 🦺 SURAAKSHA — Industrial Worker Safety Wearable
-`IoT` `Embedded` `Wearable` `Safety`
-
-A wearable system that continuously tracks worker vital signs and streams data to a supervisor dashboard in real time. Features health anomaly alerts, multi-site monitoring, historical trend analytics, and regional-language alerting for industrial worker safety.
-*Private repository.*
-
----
-
-### 🎙️ Voice-Based Fault Reporting Device
-`Embedded` `IoT` `Cloud` `Speech Processing`
-
-A compact embedded device that records a button-triggered voice complaint, tags it with location, and uploads it to a cloud REST API. Built with non-blocking firmware, watchdog and retry mechanisms, LED status feedback, and an OTA-ready architecture.
-*Private repository.*
-
----
-
-### 🌱 SARAM — Soil Analysis Device for Farmers
-`IoT` `Embedded` `Agriculture`
-
-A sensor-based device that measures key soil parameters and reports quick on-field readings, with cloud database storage and historical tracking to support data-driven farming decisions.
-*Private repository.*
-
----
-
-### 🫁 Respiratory Disease Analysis Using MATLAB
-`DSP` `MATLAB` `Machine Learning` `Biomedical Signal Processing`
-
-A MATLAB-based prototype for analyzing lung sound signals through time-domain and frequency-domain analysis, FFT, and spectrogram-based feature extraction — detecting patterns associated with wheeze and crackle sounds to distinguish normal vs abnormal respiratory signals. *A research prototype, not a clinically validated diagnostic device.*
-*Private repository.*
-
----
-
-### 🌫️ Air Quality Index Monitoring Device
-`IoT` `Sensors` `Environmental Monitoring`
-
-An IoT device using gas and particulate matter sensors to measure real-time air quality, displaying readings on an LCD and streaming data over Wi-Fi for cloud-based monitoring.
-*Private repository.*
-
----
-
-### ☀️ Solar Energy Monitoring System
-`IoT` `Embedded` `Energy Monitoring`
-
-A microcontroller-based system that measures voltage, current, and power to monitor solar generation and load consumption, with cloud telemetry for remote monitoring.
-*Private repository.*
-
----
-
-<details>
-<summary><b>📚 Additional Projects</b></summary>
-<br>
-
-**Smart Lock System Using Arduino** — RFID and password-based multi-mode authentication with real-time hardware deployment.
-
-**Smart Health Monitoring System Using Arduino** — Biomedical sensor monitoring using Arduino UNO and ESP8266, with remote tracking via ThingSpeak.
-
-**Smart Weather Responsive Window System** — Automatic window control based on temperature, humidity, rain, and gas sensing for real-time environmental response.
-
-</details>
-
----
-
-## 🏆 Certifications
-
-- **VLSI Design Flow: RTL to GDS** — NPTEL, IIT Guwahati
-- **Machine Learning for Engineering and Science Applications** — NPTEL, IIT Madras
-- **The Joy of Computing Using Python** — NPTEL, IIT Madras
-- **Digital Circuits** — NPTEL, IIT Kharagpur
-- **System Design through Verilog** — NPTEL, IIT Guwahati
-- **Microprocessors and Interfacing** — NPTEL, IIT Guwahati
-
----
-
-## 🎓 Education
-
-**B.Tech — Electronics & Communication Engineering**
-IIIT Ongole / RGUKT AP · 2022 – 2026
-
-**Pre-University Course — MPC**
-IIIT Ongole / RGUKT AP · 2020 – 2022
-
-**Secondary Education**
-Zilla Parishad High School, Madepalli, Eluru, Andhra Pradesh · 2018 – 2019
-
----
-
-## 🌐 Languages
-
-Telugu (Fluent) · English (Proficient) · Hindi (Conversational)
-
----
-
-## 🌱 Currently Learning
-
-Embedded Linux · STM32 · FreeRTOS · Advanced PCB Design · TinyML
-
----
-
-## 🤝 Open To
-
-Full-time roles in Embedded Systems, FPGA/RTL Design, VLSI, IoT, and Hardware Engineering
-
----
-
-## 📊 GitHub Stats
-
+📫 CONNECT
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinivas0694&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas0694&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+<a href="https://www.linkedin.com/in/srinivas-udiga7781/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/i.am_srinivas7/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-181717?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/share/1B2EnuSPZs/">
+  <img src="https://img.shields.io/badge/FACEBOOK-181717?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:srinivasudiga73@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-181717?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+&nbsp;&nbsp;
+<a href="https://srinivasudiga.netlify.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinivas0694&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/srinivas-udiga7781/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:srinivasudiga73@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://srinivasudiga.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-00979D?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1BpZsnydAo5lZvgL24SsRAhGNyxCXu7XL/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-2E9EF7?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>Embedded Systems | FPGA/VLSI | IoT | Hardware Design</i></p>
+<div align="center">
+`BUILD • DEBUG • DESIGN • DEPLOY`
+Embedded systems. Connected hardware. Digital design. Real-world engineering.
+</div>
