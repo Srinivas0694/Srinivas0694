@@ -370,7 +370,7 @@ Automatic window control based on temperature, humidity, rain, and gas sensing f
 
 ### IoT & Embedded Systems Engineer — Sentiantal Pvt Ltd
 
-`Aug 2025 – Present` · `Hyderabad, India`
+`Aug 2024 – Present` · `Hyderabad, India`
 
 Working across the embedded product development stack, from **custom PCB and circuit design to firmware, data acquisition, connectivity, cloud telemetry, debugging and optimization**.
 
